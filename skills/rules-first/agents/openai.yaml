@@ -1,0 +1,4 @@
+interface:
+  display_name: "先定规则，再动手"
+  short_description: "先确认需求和三层方案，再逐项实现、用证据验收，并保存项目记忆"
+  default_prompt: "请使用 $rules-first，按「先定规则，再动手」流程推进当前项目，先读取已有文档，补齐待审核内容，再根据确认记录决定下一步。"
